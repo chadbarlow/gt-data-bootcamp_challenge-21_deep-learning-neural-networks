@@ -1,7 +1,7 @@
 <h1 align="left">DEEP LEARNING & NEURAL NETWORKS<br><i>Topic: Predicting Nonprofit Success</i> </h1> 
 
 <p>This project aims to create a binary classifier to predict whether applicants funded by the nonprofit foundation Alphabet Soup will be successful in their ventures. The dataset provided contains over 34,000 organizations with various metadata about each organization.</p>
-
+ 
 ## Data Science Tools
 - Pandas
 - Scikit-learn
